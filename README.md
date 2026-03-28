@@ -387,5 +387,4 @@ This project is licensed under the [ISC License](https://opensource.org/licenses
 
 <p align="center">
   Made with ❤️ for better healthcare
-</p>#   M e d i - D a s h  
- 
+</p>#
