@@ -1,0 +1,317 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "patient",
+      "password": "patient123",
+      "role": "patient",
+      "name": "Arjun Sharma",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "specialization": "",
+      "degree": "",
+      "emergencyContactName": "Sunita Sharma",
+      "emergencyContactPhone": "999-999-9999",
+      "emergencyContactEmail": "sunita.sharma@test.com",
+      "doctorId": 2
+    },
+    {
+      "id": 2,
+      "username": "doctor",
+      "password": "doctor123",
+      "role": "doctor",
+      "name": "Dr. Kavita Deshmukh",
+      "email": "",
+      "specialization": "Cardiologist",
+      "degree": "MBBS",
+      "phone": "",
+      "address": "",
+      "emergencyContactName": "",
+      "emergencyContactPhone": "",
+      "emergencyContactEmail": ""
+    },
+    {
+      "id": 1766123714600,
+      "username": "rohit",
+      "password": "health123",
+      "role": "patient",
+      "name": "Rohit Verma",
+      "age": 19,
+      "condition": "Foola pair",
+      "status": "stable",
+      "doctorId": 2,
+      "heartRate": 75,
+      "bp": "120/80"
+    },
+    {
+      "id": 1766124059366,
+      "username": "esca",
+      "password": "health123",
+      "role": "patient",
+      "name": "Eshaan Kulkarni",
+      "age": 19,
+      "condition": "Health",
+      "status": "critical",
+      "doctorId": 2,
+      "heartRate": 75,
+      "bp": "120/80"
+    },
+    {
+      "id": 1766124322669,
+      "username": "prabhat",
+      "email": "prabhat@gmail.com",
+      "password": "MzDHXDtHAa@V",
+      "role": "patient",
+      "name": "Prabhat Mishra",
+      "age": 20,
+      "condition": "Stress",
+      "status": "stable",
+      "doctorId": 2,
+      "heartRate": 75,
+      "bp": "120/80"
+    },
+    {
+      "id": 1766236681945,
+      "username": "opena",
+      "password": "opena123",
+      "role": "doctor",
+      "name": "Dr. Omkar Nair",
+      "email": "suahj@gmail.com",
+      "specialization": "General",
+      "schedule": []
+    },
+    {
+      "id": 1766237187905,
+      "username": "escaaa9",
+      "password": "esca9144",
+      "role": "patient",
+      "name": "Esha Kapoor",
+      "email": "easca@gmail.com",
+      "age": 19,
+      "condition": "General Checkup",
+      "status": "stable",
+      "doctorId": 2,
+      "heartRate": 75,
+      "bp": "120/80"
+    },
+    {
+      "id": 101,
+      "username": "dr_iyer",
+      "password": "password123",
+      "role": "doctor",
+      "name": "Dr. Shalini Iyer",
+      "email": "shalini.iyer@hospital.com",
+      "specialization": "Cardiologist",
+      "degree": "MD, FACC"
+    },
+    {
+      "id": 102,
+      "username": "dr_mehra",
+      "password": "password123",
+      "role": "doctor",
+      "name": "Dr. Manish Mehra",
+      "email": "manish.mehra@hospital.com",
+      "specialization": "Neurologist",
+      "degree": "MD, PhD"
+    },
+    {
+      "id": 103,
+      "username": "dr_reddy",
+      "password": "password123",
+      "role": "doctor",
+      "name": "Dr. Anjali Reddy",
+      "email": "anjali.reddy@hospital.com",
+      "specialization": "Pediatrician",
+      "degree": "MD"
+    },
+    {
+      "id": 104,
+      "username": "dr_patel",
+      "password": "password123",
+      "role": "doctor",
+      "name": "Dr. Rajesh Patel",
+      "email": "rajesh.patel@hospital.com",
+      "specialization": "Dermatologist",
+      "degree": "MBBS, MD"
+    },
+    {
+      "id": 105,
+      "username": "dr_joshi",
+      "password": "password123",
+      "role": "doctor",
+      "name": "Dr. Jayant Joshi",
+      "email": "jayant.joshi@hospital.com",
+      "specialization": "Oncologist",
+      "degree": "MD"
+    },
+    {
+      "id": 106,
+      "username": "dr_gupta",
+      "password": "password123",
+      "role": "doctor",
+      "name": "Dr. Meera Gupta",
+      "email": "meera.gupta@hospital.com",
+      "specialization": "Psychiatrist",
+      "degree": "MD"
+    },
+    {
+      "id": 107,
+      "username": "dr_banerjee",
+      "password": "password123",
+      "role": "doctor",
+      "name": "Dr. Rajeev Banerjee",
+      "email": "rajeev.banerjee@hospital.com",
+      "specialization": "Orthopedic Surgeon",
+      "degree": "MD, FACS"
+    },
+    {
+      "id": 108,
+      "username": "dr_devi",
+      "password": "password123",
+      "role": "doctor",
+      "name": "Dr. Lakshmi Devi",
+      "email": "lakshmi.devi@hospital.com",
+      "specialization": "Gynecologist",
+      "degree": "MD"
+    },
+    {
+      "id": 109,
+      "username": "dr_malhotra",
+      "password": "password123",
+      "role": "doctor",
+      "name": "Dr. Vikram Malhotra",
+      "email": "vikram.malhotra@hospital.com",
+      "specialization": "Endocrinologist",
+      "degree": "MD, PhD"
+    },
+    {
+      "id": 110,
+      "username": "dr_thakur",
+      "password": "password123",
+      "role": "doctor",
+      "name": "Dr. Priya Thakur",
+      "email": "priya.thakur@hospital.com",
+      "specialization": "General Practitioner",
+      "degree": "MBBS"
+    }
+  ],
+  "medicines": [
+    {
+      "id": 1,
+      "name": "Lisinopril",
+      "dosage": "10mg",
+      "time": "08:00 AM",
+      "status": "taken",
+      "type": "pill"
+    },
+    {
+      "id": 2,
+      "name": "Metformin",
+      "dosage": "500mg",
+      "time": "01:00 PM",
+      "status": "due",
+      "type": "pill"
+    },
+    {
+      "id": 3,
+      "name": "Aspirin",
+      "dosage": "81mg",
+      "time": "08:00 PM",
+      "status": "upcoming",
+      "type": "pill"
+    },
+    {
+      "id": 1766240768347,
+      "name": "esacca",
+      "dosage": "1gm",
+      "time": "07:58 pm",
+      "type": "pill",
+      "status": "upcoming"
+    }
+  ],
+  "requests": [
+    {
+      "id": 1766237749768,
+      "patientId": 1766237187905,
+      "doctorId": 2,
+      "status": "accepted",
+      "timestamp": "2025-12-20T13:35:49.768Z"
+    },
+    {
+      "id": 1766654134591,
+      "patientId": 1,
+      "doctorId": 2,
+      "status": "accepted",
+      "timestamp": "2025-12-25T09:15:34.591Z"
+    },
+    {
+      "id": 1766654136104,
+      "patientId": 1,
+      "doctorId": 1766236681945,
+      "status": "pending",
+      "timestamp": "2025-12-25T09:15:36.104Z"
+    },
+    {
+      "id": 1766654136727,
+      "patientId": 1,
+      "doctorId": 101,
+      "status": "pending",
+      "timestamp": "2025-12-25T09:15:36.727Z"
+    },
+    {
+      "id": 1766654137511,
+      "patientId": 1,
+      "doctorId": 104,
+      "status": "pending",
+      "timestamp": "2025-12-25T09:15:37.511Z"
+    },
+    {
+      "id": 1766654138367,
+      "patientId": 1,
+      "doctorId": 102,
+      "status": "pending",
+      "timestamp": "2025-12-25T09:15:38.367Z"
+    },
+    {
+      "id": 1766654138950,
+      "patientId": 1,
+      "doctorId": 103,
+      "status": "pending",
+      "timestamp": "2025-12-25T09:15:38.950Z"
+    },
+    {
+      "id": 1766655695706,
+      "patientId": 1,
+      "doctorId": 105,
+      "status": "accepted",
+      "timestamp": "2025-12-25T09:41:35.706Z"
+    }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "senderId": 1,
+      "receiverId": 2,
+      "text": "Hello Dr. Deshmukh, I wanted to discuss my recent blood pressure readings.",
+      "timestamp": "2026-03-27T10:30:00.000Z",
+      "read": true
+    },
+    {
+      "id": 2,
+      "senderId": 2,
+      "receiverId": 1,
+      "text": "Hi Arjun! I've noticed the fluctuations too. Are you taking your Lisinopril regularly?",
+      "timestamp": "2026-03-27T10:32:00.000Z",
+      "read": true
+    },
+    {
+      "id": 3,
+      "senderId": 1,
+      "receiverId": 2,
+      "text": "Yes, I take it every morning. But I've been feeling a bit dizzy after taking it.",
+      "timestamp": "2026-03-27T10:35:00.000Z",
+      "read": false
+    }
+  ]
+}
